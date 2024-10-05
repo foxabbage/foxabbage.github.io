@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: login
+    permalink: https://www.bilibili.com
 ---

@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-about_html: https://www.bilibili.com
 
 profile:
   align: right
