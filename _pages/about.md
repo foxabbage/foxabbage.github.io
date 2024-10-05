@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-<a href="https://foxabbage.github.io" class="btn btn-sm z-depth-0" role="button">Login</a>
+login: https://foxabbage.github.io
 
 profile:
   align: right
