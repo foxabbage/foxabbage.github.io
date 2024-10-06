@@ -243,12 +243,12 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/_profilecontent
+  - _pages/_profilecontent/
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
-  - reference_for_blog
+  - reference_for_blog/
 keep_files:
   - CNAME
   - .nojekyll
